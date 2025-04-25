@@ -1,0 +1,10 @@
+# Ignore system and user files
+*.log
+*.tmp
+*.dat
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
+bin/
+obj/
